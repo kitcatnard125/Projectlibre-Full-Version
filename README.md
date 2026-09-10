@@ -241,3 +241,6 @@ This repository serves as the official landing page for ProjectLibre. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ProjectLibre today!**
+
+---
+**Last updated:** 2026-09-10 18:55:39 UTC
