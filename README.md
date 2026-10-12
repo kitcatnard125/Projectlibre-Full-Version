@@ -243,4 +243,4 @@ This repository serves as the official landing page for ProjectLibre. The softwa
 **Get the most recent version of ProjectLibre today!**
 
 ---
-**Last updated:** 2026-10-11 20:46:30 UTC
+**Last updated:** 2026-10-12 00:11:31 UTC
